@@ -47,6 +47,48 @@ In addition to native Power BI visuals, this report incorporates the following t
 - ZoomCharts Pie Chart (Pro edition)
 - ZoomCharts Drill Down Combo Bar (Pro edition)
 
+## 5. Dashboard Presentation : 
+
+<img width="951" height="379" alt="National Health Analysis — Power BI Report 5" src="https://github.com/user-attachments/assets/89ee0428-5e07-4371-a06b-ff01e8f8ceda" />
+
+<img width="956" height="399" alt="National Health Analysis — Power BI Report 4" src="https://github.com/user-attachments/assets/554d3cda-c2fc-4dfd-be74-4520ec98b1de" />
+
+<img width="959" height="366" alt="National Health Analysis — Power BI Report 3" src="https://github.com/user-attachments/assets/43746d46-e376-4ee6-8b4a-51c561a2147f" />
+
+<img width="959" height="437" alt="National Health Analysis — Power BI Report 2" src="https://github.com/user-attachments/assets/e7e1c311-a4ef-490e-beb7-b7384db12265" />
+
+<img width="947" height="398" alt="National Health Analysis — Power BI Report 1" src="https://github.com/user-attachments/assets/d1ed7d21-24fb-4ff1-a1fd-530374939cb6" />
+
+<img width="938" height="331" alt="National Health Analysis — Power BI Report 6" src="https://github.com/user-attachments/assets/d4422214-42b8-40ce-b3ed-ccee3e703797" />
+
+<img width="739" height="440" alt="National Health Analysis — Power BI Report  7" src="https://github.com/user-attachments/assets/71b31541-fafc-4f29-b73c-2caed0d69bfb" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Licensing requirement:** The Pro editions of these visuals require a valid ZoomCharts license for full functionality. Reports opened without an active license may display these visuals in a restricted or preview state.
 
 ---
